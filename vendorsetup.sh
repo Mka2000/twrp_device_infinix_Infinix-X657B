@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_Infinix-X657B-user
-add_lunch_combo omni_Infinix-X657B-userdebug
-add_lunch_combo omni_Infinix-X657B-eng
+COMMON_LUNCH_CHOICES twrp_Infinix-X657B-user
+COMMON_LUNCH_CHOICES twrp_Infinix-X657B-userdebug
+COMMON_LUNCH_CHOICES twrp_Infinix-X657B-eng
